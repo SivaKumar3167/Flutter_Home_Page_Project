@@ -2,7 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+## Issues Faced
+
+In this project i can't have a perfect fontfamilies and can't have perfect assets
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
